@@ -92,7 +92,7 @@ Features product management, stock tracking, and order listing
 📧 Email: [kvonline9878@gmail.com](mailto:kvonline9878@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/khushi-verma91](https://linkedin.com/in/khushi-verma91)  
 💻 GitHub: [github.com/khushi-verma9191](https://github.com/khushi-verma9191)  
-🌐 Portfolio: [vercel.app](https://your-vercel-portfolio-url.vercel.app)
+🌐 Portfolio: [vercel.app](https://khushi-verma-portfolio.vercel.app/)
 
 ---
 
