@@ -1,100 +1,215 @@
-# 👋 Hi there, I'm Khushi Verma!
+# Khushi Verma
 
-**🌐 Full Stack Developer | 💻 PHP | Laravel | MERN (learning) | 🏠 Based in Noida, India**
+Backend & Full Stack Developer  
+PHP • Laravel • CodeIgniter • REST APIs • MySQL
 
----
+Full Stack Developer with professional experience building scalable web applications, backend systems, authentication workflows, and business-focused platforms using PHP, Laravel, JavaScript, and MySQL.
 
-## 🧭 About Me
-
-I’m a results-oriented **Full-Stack Web Developer** with 1 year of experience building scalable and responsive web applications using **PHP, Laravel, JavaScript, and MySQL**. I specialize in crafting **secure backends**, **multi-role dashboards**, and **user-focused designs** — from concept to deployment. Currently diving deeper into the **MERN stack** to expand my frontend and backend capabilities.
-
-🔍 I thrive on solving real-world problems through clean, efficient code and enjoy working across both frontend and backend domains.
+Focused on backend engineering, API architecture, database optimization, secure application development, and scalable system design.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages & Markup:**  
-`PHP` • `JavaScript` • `HTML5` • `CSS3`
+I specialize in developing dynamic and maintainable web applications with strong backend architecture and clean development practices.
 
-**Frameworks & Libraries:**  
-`Laravel` • `Bootstrap` • `jQuery`
+My experience includes:
+- REST API development
+- Authentication & authorization systems
+- CRM and dashboard development
+- Database optimization
+- Multi-role application architecture
+- Deployment and hosting management
+- Full-stack business applications
 
-**Backend & Databases:**  
-`MySQL` • `REST APIs` • `Authentication` • `Session Handling`
-
-**Frontend Skills:**  
-`Responsive Design` • `Form Validation` • `UI Animations`
-
-**Tools & DevOps:**  
-`Git` • `Postman` • `VS Code` • `XAMPP/WAMP` • `cPanel` • `Hostinger`
-
-**Currently Learning:**  
-`MongoDB` • `Express.js` • `React.js` • `Node.js (MERN Stack)`
-
----
-
-## 💼 Work Experience
-
-**🔹 Web Developer** – *Riotech Softwares* (Oct 2024 – May 2025)  
-• Developed Laravel-based dynamic web applications  
-• Reduced backend query response time by 60%  
-• Implemented secure login, session handling, and role-based access  
-• Managed full hosting & deployment using Hostinger  
-• Led development of *Little Luck* – a multi-dashboard real estate platform
-
-**🔹 Summer Intern** – *Softpro India* (Jul 2024 – Sep 2024)  
-• Built College Automation System using Core PHP  
-• Implemented student modules: registration, attendance, marks
-
-**🔹 Industrial Trainee** – *Softpro India* (Feb 2024 – May 2024)  
-• Developed educational content system (*Nou E Gyan*) using Python Django  
-• Learned template rendering, model-view-template pattern, form handling
+Currently expanding expertise in:
+- MERN Stack
+- System Design
+- Scalable Backend Engineering
+- AI-Assisted Development Workflows
 
 ---
 
-## 🌟 Featured Projects
+## Tech Stack
 
-### 🏡 [Little Luck – Real Estate Web App](https://littleluck.in)
-Multi-role Laravel platform for Admin, Sellers, and Customers  
-*Tech Stack:* Laravel, MySQL, HTML, CSS, JS  
-Includes LLPrime Subscription, Contact Forms, Legal Pages  
-🧩 Hosted on Hostinger (cPanel + Subdomain)
+### Backend
+`PHP` `Laravel` `CodeIgniter` `REST APIs` `Authentication`
 
-### 🛍️ [E-Commerce Website](https://shop.nakshatrasutra.com)
-End-to-end shopping platform with admin dashboard  
-*Tech Stack:* Core PHP, MySQL, HTML, CSS, JavaScript  
-Features product management, stock tracking, and order listing
+### Frontend
+`JavaScript` `HTML5` `CSS3` `Bootstrap` `jQuery`
 
----
+### Database
+`MySQL` `CRUD Operations` `Query Optimization`
 
-## 🎓 Education
+### Tools & Platforms
+`Git` `GitHub` `Postman` `VS Code` `Hostinger` `cPanel`
 
-**Bachelor of Computer Applications (BCA)**  
-*TERI PG College, Ghazipur*  
-📅 Sept 2022 – Sept 2025 | 🎯 CGPA: 8.0  
-*Key Courses:* DBMS, Web Development, Data Structures, Networking
+### Currently Learning
+`MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-## 🏆 Certifications & Achievements
+## Professional Experience
 
-- ⭐ **Full Stack Development with PHP** – Softpro India  
-- 🏅 **Star Performer Award** – Summer Training 2024  
-- 🎤 **Best Speaker Award** – Summer Training 2024  
-- 🐍 **Python Django Industrial Training** – Softpro India  
-- 🛡️ **Participant** – National Cyber Security Conference, TERI PG College
+### PHP Developer — PISoftek
+Dec 2025 – Present | Noida, India
 
----
+- Developing and maintaining scalable PHP-based web applications
+- Working on backend modules, authentication systems, and API integrations
+- Managing database operations, debugging, and backend optimization
+- Contributing to maintainable and secure application architecture
 
-## 📫 Contact Me
-
-📧 Email: [kvonline9878@gmail.com](mailto:kvonline9878@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/khushi-verma91](https://linkedin.com/in/khushi-verma91)  
-💻 GitHub: [github.com/khushi-verma9191](https://github.com/khushi-verma9191)  
-🌐 Portfolio: [vercel.app](https://khushi-verma-portfolio.vercel.app/)
+**Technologies:**  
+`PHP` `MySQL` `JavaScript` `REST APIs` `Git`
 
 ---
 
-_“Striving for growth, grounded in code, dancing through challenges — that's me.”_
+### Full Stack Developer — Valkyrie People Consulting
+Aug 2025 – Dec 2025 | Delhi, India
 
+- Developed scalable web applications using Laravel and PHP
+- Built authentication systems, CRM modules, and multi-role dashboards
+- Designed optimized MySQL database structures
+- Integrated third-party APIs and payment gateways
+- Worked with RESTful APIs, MVC architecture, and Git workflows
+- Assisted in deployment and server management
+
+**Technologies:**  
+`Laravel` `PHP` `MySQL` `JavaScript` `AJAX` `REST APIs`
+
+---
+
+### Full Stack Developer — RioTech Software
+Oct 2024 – May 2025 | Lucknow, India
+
+- Built and maintained dynamic web applications using Core PHP and Laravel
+- Developed admin dashboards and backend management systems
+- Implemented authentication, session handling, and API integrations
+- Worked on healthcare, ecommerce, news, and real estate platforms
+- Optimized database queries and application performance
+- Managed hosting and deployment using Hostinger and cPanel
+
+**Technologies:**  
+`Core PHP` `Laravel` `MySQL` `Bootstrap` `REST APIs`
+
+---
+
+### Summer Intern — Softpro India Computer Technologies
+Jul 2024 – Sep 2024 | Lucknow, India
+
+- Developed College Automation System using Core PHP & MySQL
+- Built registration, attendance, and academic management modules
+- Worked with backend validation and database operations
+
+**Technologies:**  
+`PHP` `MySQL` `JavaScript`
+
+---
+
+### Industrial Training — Softpro India Computer Technologies
+Mar 2024 – May 2024 | Lucknow, India
+
+- Developed educational platform modules using Python Django
+- Worked on routing, templates, form handling, and database models
+- Learned MVC/MVT architecture and backend workflows
+
+**Technologies:**  
+`Python` `Django` `HTML` `CSS`
+
+---
+
+## Featured Projects
+
+### Little Luck — Real Estate Platform
+https://littleluck.in
+
+Multi-role real estate platform with Admin, Seller, and Customer dashboards.
+
+**Features**
+- Authentication & Role-Based Access
+- Subscription System
+- Property Listings & Management
+- Contact & Inquiry System
+- Secure Backend Operations
+
+**Tech Stack**  
+`Laravel` `MySQL` `JavaScript` `HTML/CSS`
+
+---
+
+### Nakshatra Sutra — Ecommerce Platform
+https://shop.nakshatrasutra.com
+
+Ecommerce platform with backend administration and product management.
+
+**Features**
+- Product Management
+- Order Tracking
+- Admin Dashboard
+- Inventory Management
+
+**Tech Stack**  
+`PHP` `MySQL` `JavaScript`
+
+---
+
+## Education
+
+### Bachelor of Computer Applications (BCA)
+TERI PG College, Ghazipur  
+2022 – 2025 | CGPA: 8.0
+
+Relevant Coursework:
+- Database Management Systems
+- Data Structures
+- Web Development
+- Computer Networks
+
+---
+
+## Certifications
+
+- Full Stack Development with PHP — Softpro India
+- Python Django Industrial Training — Softpro India
+- Star Performer Award — Summer Training 2024
+- Best Speaker Award — Summer Training 2024
+- National Cyber Security Conference Participant
+
+---
+
+## Current Focus
+
+- Backend Engineering
+- REST API Architecture
+- Secure Authentication Systems
+- Database Optimization
+- System Design Fundamentals
+- AI-Assisted Development
+
+---
+
+## Contact
+
+Email:  
+kvonline9878@gmail.com
+
+LinkedIn:  
+https://www.linkedin.com/in/khushi-verma91/
+
+GitHub:  
+https://github.com/khushi-verma9191
+
+Portfolio:  
+https://khushi-verma-portfolio.vercel.app/
+
+---
+
+## Development Philosophy
+
+Strong software engineering is about:
+- solving real-world problems
+- building scalable systems
+- writing maintainable code
+- continuously improving engineering skills
+
+> Building systems with scalability, maintainability, and performance in mind.
